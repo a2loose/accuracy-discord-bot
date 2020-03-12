@@ -33,5 +33,5 @@ async def acc_error(ctx,error):
 ###EXAMPLE = {botPrefix}acc Loco 1:30PM 10/10 2.37rs All won
 
 
-bot.run(botToken)
+bot.run(Njg3NjIxOTE4ODQ0NzgwNTQ1.Xmob_A.LOP1JufbLvBRi_ykqtKFSQ9zLpM)
 
